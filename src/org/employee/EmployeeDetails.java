@@ -17,6 +17,10 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee mobile : 7200983432");
 	}
 	
+	private void empAdd() {
+		System.out.println("emp add: Anna nagar");
+	}
+	
 	// main method
 	public static void main(String[] args) {
 		
