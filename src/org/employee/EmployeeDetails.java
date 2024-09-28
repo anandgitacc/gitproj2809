@@ -20,6 +20,13 @@ public class EmployeeDetails { // block or body of the class
 	private void empAdd() {
 		System.out.println("emp add: Anna nagar");
 	}
+	private void empId() {
+		System.out.println("emp id : 111");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 06c6373c1735c6bf44c93636d407bc92d97ed6fb
+
 	
 	// main method
 	public static void main(String[] args) {
